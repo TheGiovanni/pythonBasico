@@ -23,3 +23,9 @@ sumas y restas
 comparaciones de identidad y pertenencia
 logicos
 """
+#walrus operator morsa
+#asigna un valor a una variable como parte de una expresión
+print(x := 19) #asigna 19 a x y luego imprime x
+
+
+
