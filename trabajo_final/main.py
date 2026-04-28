@@ -14,7 +14,7 @@ def main():
             ver_historial()
         #ver historial
         elif opcion == "3":
-        #salir
+            print("Gracias por visitar la Cafetería. ¡Hasta luego!")
             break
         else:
             print("Opción no válida, por favor selecciona una opción del menú")
